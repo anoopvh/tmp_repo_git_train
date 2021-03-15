@@ -1,4 +1,5 @@
 Hello world
 
-This line is newly added
+This line is newly removed
+
 
